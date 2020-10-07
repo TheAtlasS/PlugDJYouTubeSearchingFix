@@ -4,10 +4,10 @@ This will guide you through how to setup this script to run which fixes the YouT
 
 1. You'll need to add the extension TamperMonkey (or another userscript manager) you can get it on [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 2. Open TamperMonkey by clicking on the extension in the top right and clicking on Create a new script ![image1](https://github.com/TheAtlasS/PlugDJYoutubeSearchingFix/blob/main/PlugDJ1.jpg) 
-3. You should end up here ![image2](https://github.com/Blake-Eddy149/PlugDJYoutubeSearchFix/blob/main/PlugDJ2.jpg) 
-4. Copy the code portion and paste it into the console. You can get the code for it [here](#code). When you're finished it should look like this ![image3](https://github.com/Blake-Eddy149/PlugDJYoutubeSearchFix/blob/main/PlugDJ3.jpg)
+3. You should end up here ![image2](https://github.com/TheAtlasS/PlugDJYoutubeSearchingFix/blob/main/PlugDJ2.jpg) 
+4. Copy the code portion and paste it into the console. You can get the code for it [here](#code). When you're finished it should look like this ![image3](https://github.com/TheAtlasS/PlugDJYoutubeSearchingFix/blob/main/PlugDJ3.jpg) 
 5. Save the script by clicking file in the top left and then save
-6. After saving it should take you to a screen like this just make sure the script is enabled ![image4](https://github.com/Blake-Eddy149/PlugDJYoutubeSearchFix/blob/main/PlugDJ4.jpg)
+6. After saving it should take you to a screen like this just make sure the script is enabled ![image4](https://github.com/TheAtlasS/PlugDJYoutubeSearchingFix/blob/main/PlugDJ4.jpg) 
 7. Test that the script is working on your favorite plug.dj channel (plug.dj/itzmasayoshi) 
 
 # Troubleshooting
